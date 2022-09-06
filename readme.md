@@ -1,4 +1,4 @@
-# ProjectLoginHelper
+# ProjetoLoginHelper
 
 Olá, sou o Lucas Brandão é esse é meu primeiro projeto usando JavaScript.
 Desenvolvido durante curso de HTML5, CSS3 e JavaScript. 
